@@ -1,8 +1,8 @@
 # IBM API Connect SubfFlow
 
 ## Description
-Utility for wrapping an assembly as an icon (User Defined Policy - UDP).
-Very useful for reuse API login (like subflow).
+Utility for wrapping API assembly as an icon (User Defined Policy - UDP).
+Very useful for reuse logic between APIs.
 
 The script pull API from drafts (APIM develope section) and generate dedicated policy based on API content:
 - info block will be used for policy info
